@@ -1,0 +1,8 @@
+{
+  "name": "Daily",
+  "description": "Jednostavna i pregledna aplikacija za praćenje dnevnih navika, hobija i nizova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
